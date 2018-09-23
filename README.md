@@ -1,2 +1,2 @@
 # hello-world
-Hello everybody. This is Manas Uniyal.
+Hello world. This is Manas Uniyal.
